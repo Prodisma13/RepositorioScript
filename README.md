@@ -16,3 +16,9 @@ Versión 4.0
 
 Versión 5.0
 -
+
+Versión 6.0
+-
+
+Versión 7.0
+-
