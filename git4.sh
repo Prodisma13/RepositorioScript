@@ -30,7 +30,7 @@ echo "7. Subimos los archivos a el repositorio"
 echo "" #Linea de espacio
 
 #Selección de opción
-read -p "Elige que quieres hacer(1-6): " seleccion
+read -p "Elige que quieres hacer(1-7): " seleccion
 
 echo "" #Linea de espacio
 #Opciones
