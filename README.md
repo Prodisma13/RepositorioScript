@@ -13,7 +13,7 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
   </ol>
   
 <h1>Versión 2.0</h1>
-- <b>Primera version oficial</b>
+- <b>Primera versión oficial</b>
 <br>
 - <b>En esta versión se incluyó ya la opción de poder elegir funcionalidades.</b>
 <br>
@@ -27,9 +27,24 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
   </ol>
   
 <h1>Versión 3.0</h1>
-- <b>Segunda version</b>
+- <b>Segunda versión</b>
 <br>
-- <b>En esta version se oncluye una funcion más, clonar el repositorio.</b>
+- <b>En esta versión se incluye una función más, clonar el repositorio.</b>
+<br>
+- <u>Funcionalidades:</u>
+  <ol>
+    <li>Iniciar sesión en Git</li>
+    <li>Inicializar repositorio</li>
+    <li>Clonar repositorio</li>
+    <li>Ver el estado del repositorio</li>
+    <li>Añadir los cambios realizados en el directorio</li>
+    <li>Guardar esos cambios con comentario incluido</li>
+  </ol>
+
+<h1>Versión 4.0</h1>
+- <b>Tercera Version</b>
+<br>
+- <b>En esta versión se incluye una función mas, subir los cambios al repositorio</b>
 <br>
 - <u>Funcionalidades:</u>
   <ol>
@@ -39,26 +54,25 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
     <li>Ver el estado del repositorio</li>
     <li>Añadir los cambios realizados en el directorio</li>
     <li>Guardar esos cambios con comentario incluido</li>
-  </ol>
-
-<h1>Versión 4.0</h1>
-- <b></b>
-<br>
-- <b></b>
-<br>
-- <u>Funcionalidades:</u>
-  <ol>
-    <li></li>
+    <li>Subir los cambios al repositorio</li>
   </ol>
 
 <h1>Versión 5.0</h1>
-- <b></b>
+- <b>Cuarta Versión</b>
 <br>
-- <b></b>
+- <b>En esta versión ese incluye dos funciones extras, eliminar script del directorio acutal y mover script (Copia).</b>
 <br>
 - <u>Funcionalidades:</u>
   <ol>
-    <li></li>
+    <li>Iniciar sesion en Git</li>
+    <li>Inicializar repositorio</li>
+    <li>Clonar repositorio</li>
+    <li>Ver el estado del repositorio</li>
+    <li>Añadir los cambios realizados en el directorio</li>
+    <li>Guardar esos cambios con comentario incluido</li>
+    <li>Subir los cambios al repositorio</li>
+    <li>Mover el script al directorio deseado (Copia)</li>
+    <li>Eliminar script del directorio actual</li>
   </ol>
 
 <h1>Versión 6.0</h1>
