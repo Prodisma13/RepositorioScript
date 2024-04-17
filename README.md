@@ -3,7 +3,8 @@ Programa para realizar varias funciones de git de manera de no tener que preocup
 Este programa te permitirá clonar el repositorio, añadir los cambios , guardar los cambios con comentario y subir los cambios a tu repositorio de GitHub principalmente. A parte de estas funciones hay otras incluidas al programa.
 
 <h1>Versión 1.0</h1>
-- <b>Version de prueba. Realmente no tiene funcionalidades es un boceto.</b>
+- <b>Version de prueba.</b>
+- <b>Realmente no tiene funcionalidades es un boceto.</b>
 <br>
   - Funcionalidades:
   <ol>
