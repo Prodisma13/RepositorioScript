@@ -15,9 +15,9 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
 <h1>Versión 2.0</h1>
 - <b>Primera version oficial</b>
 <br>
-- <b></b>
+- <b>En esta versión se incluyó ya la opción de poder elegir funcionalidades.</b>
 <br>
-  -<u>Funcionalidades:</u> 
+  - <u>Funcionalidades:</u> 
   <ol>
     <li>Iniciar sesión en Git</li>
     <li>Inicializar repositorio</li>
