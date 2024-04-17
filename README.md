@@ -26,6 +26,16 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
     <li>Guardar esos cambios con comentario incluido</li>
   </ol>
   
+<h1>Versión 3.0</h1>
+- <b></b>
+<br>
+- <b></b>
+<br>
+- <u>Funcionalidades:</u>
+  <ol>
+    <li></li>
+  </ol>
+
 <h1>Versión 4.0</h1>
 - <b></b>
 <br>
@@ -57,16 +67,6 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
   </ol>
 
 <h1>Versión 7.0</h1>
-- <b></b>
-<br>
-- <b></b>
-<br>
-- <u>Funcionalidades:</u>
-  <ol>
-    <li></li>
-  </ol>
-
-<h1>Versión 3.0</h1>
 - <b></b>
 <br>
 - <b></b>
