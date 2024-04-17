@@ -76,21 +76,39 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
   </ol>
 
 <h1>Versión 6.0</h1>
-- <b></b>
+- <b>Quinta Versión</b>
 <br>
-- <b></b>
+- <b>Se incluye dos condiciones en el código para las opciones 8 y 9</b>
 <br>
 - <u>Funcionalidades:</u>
   <ol>
-    <li></li>
+    <li>Iniciar sesion en Git</li>
+    <li>Inicializar repositorio</li>
+    <li>Clonar repositorio</li>
+    <li>Ver el estado del repositorio</li>
+    <li>Añadir los cambios realizados en el directorio</li>
+    <li>Guardar esos cambios con comentario incluido</li>
+    <li>Subir los cambios al repositorio</li>
+    <li>Mover el script al directorio deseado (Copia)</li>
+    <li>Eliminar script del directorio actual</li>
   </ol>
 
 <h1>Versión 7.0</h1>
-- <b></b>
+- <b>Sexta Versión</b>
 <br>
-- <b></b>
+- <b>Se incluye dos funciones nuevas crear ramas y elegir una rama.</b>
 <br>
 - <u>Funcionalidades:</u>
   <ol>
-    <li></li>
+    <li>Iniciar sesion en Git</li>
+    <li>Inicializar repositorio</li>
+    <li>Clonar repositorio</li>
+    <li>Ver el estado del repositorio</li>
+    <li>Añadir los cambios realizados en el directorio</li>
+    <li>Guardar esos cambios con comentario incluido</li>
+    <li>Subir los cambios al repositorio</li>
+    <li>Crear una nueva rama</li>
+    <li>Entrar en una rama</li>
+    <li>Mover el script al directorio deseado (Copia)</li>
+    <li>Eliminar script del directorio actual</li>
   </ol>
