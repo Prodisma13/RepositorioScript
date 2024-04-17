@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Sexta Versión de programa para git
-#Esta sexta versión te permite elegir que hacer a la hora de usar git
+#Séptima Versión de programa para git
+#Esta séptima versión te permite elegir que hacer a la hora de usar git
 #Realizado por Prodisma13
 
 
