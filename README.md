@@ -7,7 +7,7 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
 <br>
 - <b>Realmente no tiene funcionalidades es un boceto.</b>
 <br>
-  - Funcionalidades:
+  - <u>Funcionalidades:</u>
   <ol>
     <li>Iniciar sesión en Git</li>
   </ol>
