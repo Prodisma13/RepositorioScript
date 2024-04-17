@@ -4,6 +4,7 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
 
 <h1>Versión 1.0</h1>
 - Version de prueba
+<br>
   - Funcionalidades:
     1. Iniciar sesión en Git
        
