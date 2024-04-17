@@ -4,6 +4,7 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
 
 <h1>Versión 1.0</h1>
 - <b>Version de prueba.</b>
+<br>
 - <b>Realmente no tiene funcionalidades es un boceto.</b>
 <br>
   - Funcionalidades:
