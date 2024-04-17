@@ -27,9 +27,9 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
   </ol>
   
 <h1>Versión 3.0</h1>
-- <b></b>
+- <b>Segunda version</b>
 <br>
-- <b></b>
+- <b>En esta version se oncluye una funcion más, clonar el repositorio.</b>
 <br>
 - <u>Funcionalidades:</u>
   <ol>
