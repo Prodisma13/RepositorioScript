@@ -25,17 +25,53 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
     <li>Añadir los cambios realizados en el directorio</li>
     <li>Guardar esos cambios con comentario incluido</li>
   </ol>
-Versión 3.0
--
+  
+<h1>Versión 4.0</h1>
+- <b></b>
+<br>
+- <b></b>
+<br>
+- <u>Funcionalidades:</u>
+  <ol>
+    <li></li>
+  </ol>
 
-Versión 4.0
--
+<h1>Versión 5.0</h1>
+- <b></b>
+<br>
+- <b></b>
+<br>
+- <u>Funcionalidades:</u>
+  <ol>
+    <li></li>
+  </ol>
 
-Versión 5.0
--
+<h1>Versión 6.0</h1>
+- <b></b>
+<br>
+- <b></b>
+<br>
+- <u>Funcionalidades:</u>
+  <ol>
+    <li></li>
+  </ol>
 
-Versión 6.0
--
+<h1>Versión 7.0</h1>
+- <b></b>
+<br>
+- <b></b>
+<br>
+- <u>Funcionalidades:</u>
+  <ol>
+    <li></li>
+  </ol>
 
-Versión 7.0
--
+<h1>Versión 3.0</h1>
+- <b></b>
+<br>
+- <b></b>
+<br>
+- <u>Funcionalidades:</u>
+  <ol>
+    <li></li>
+  </ol>
