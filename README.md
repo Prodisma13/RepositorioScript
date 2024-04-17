@@ -33,7 +33,12 @@ Este programa te permitirá clonar el repositorio, añadir los cambios , guardar
 <br>
 - <u>Funcionalidades:</u>
   <ol>
-    <li></li>
+    <li>Iniciar sesion en Git</li>
+    <li>Inicializar repositorio</li>
+    <li>Clonar repositorio</li>
+    <li>Ver el estado del repositorio</li>
+    <li>Añadir los cambios realizados en el directorio</li>
+    <li>Guardar esos cambios con comentario incluido</li>
   </ol>
 
 <h1>Versión 4.0</h1>
