@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Segunda Versión de programa para git
-#Esta segunda versión te permite elegir que hacer a la hora de usar git
+#Cuarta Versión de programa para git
+#Esta cuarta versión te permite elegir que hacer a la hora de usar git
 #Realizado por Prodisma13
 
 
